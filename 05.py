@@ -1,3 +1,5 @@
+# Reinforcement learning algorithm
+
 # 汤普森采样算法
 
 import random
